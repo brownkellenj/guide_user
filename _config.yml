@@ -1,5 +1,4 @@
-baseurl: ""
-url: "https://brownkellenj.github.io"
 remote_theme: pages-themes/slate@v0.2.0
+url: "https://brownkellenj.github.io"
 plugins:
 - jekyll-remote-theme
